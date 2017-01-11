@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace First_Class_Library
+namespace First_Class_Library.Entities
 {
-    public class Class1
+    public class Entity
     {
     }
 }
